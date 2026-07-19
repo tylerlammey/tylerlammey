@@ -1,6 +1,6 @@
 # Hi there, I'm Tyler Lammey! 👋
 
-I'm a **Computer and Systems Engineering (Computer Engineering)** student at **Rensselaer Polytechnic Institute** (Troy, NY) with a passion for software engineering, embedded systems, radar/RF engineering, and AI/ML. 
+I'm a **Computer Engineering** student at **Rensselaer Polytechnic Institute** (Troy, NY) with a passion for software engineering, embedded systems, radar/RF engineering, and AI/ML. 
 
 🛡️ **Active DoD Secret Security Clearance**  
 💼 **Radar Systems Engineering Intern @ Raytheon** (Modeling & Simulation)  
@@ -23,7 +23,7 @@ I'm a **Computer and Systems Engineering (Computer Engineering)** student at **R
 
 #### ⚓ [UTUX Underwater Exploration Website](https://github.com/U-of-T-Underwater-Exploration/website)
 *Web platform for the University of Toronto Underwater Exploration student design club.*
-- Designed the backend REST API using **FastAPI** and integrated a **SQL** database schema.
+- Designed the backend REST API using **FastAPI**.
 - Collaborated on the interactive frontend UI using **React**.
 
 #### ⚛️ [Nuclear Magnetic Resonance (NMR) Qubits](https://github.com/tylerlammey/personal-website/blob/main/nmr_qubits_paper.pdf)
@@ -53,15 +53,6 @@ I'm a **Computer and Systems Engineering (Computer Engineering)** student at **R
   - Developed Python automation scripts for SCPI instrument control and RF measurement pipelines. Built SDR waveform format conversion tools.
 - 🔌 **Advanced Technologies and Services, Inc.** | *Software Engineer Intern* (May 2024 – Aug 2024)
   - Developed TCP/UDP network test tools on GCP. Programmed Arduino firmware and Bash workflows to automate network test device production.
-
----
-
-### 📊 Git Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tylerlammey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tyler Lammey GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerlammey&layout=compact&theme=tokyonight&hide_border=true" alt="Tyler Lammey Top Languages" width="48%" />
-</p>
 
 ---
 
